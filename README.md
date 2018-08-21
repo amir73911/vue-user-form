@@ -1,6 +1,6 @@
 # Vue + Vuex user form
 
-[Demo](http://amir73911.github.io/vue-user-form/dist/)
+[Demo](http://amir73911.github.io/vue-user-form/dist/index.html)
 
 ## Project setup
 
